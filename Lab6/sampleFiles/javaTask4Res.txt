@@ -1,0 +1,10 @@
+main(String[] args)
+addTests(ArrayList<Test> tests)
+addTest(Test test)
+setVariable(int variable)
+increaseVariable(int value)
+main(String[] args)
+addTests(ArrayList<Test> tests);
+addTest(Test test);
+setVariable(int variable)
+increaseVariable(int value)

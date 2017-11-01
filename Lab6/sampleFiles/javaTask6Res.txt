@@ -1,0 +1,4 @@
+addTests(ArrayList<Test> tests);
+addTest(Test test);
+getVariable()
+setVariable(int variable)
